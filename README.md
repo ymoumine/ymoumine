@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I’m Yassine Moumine
+
+👀 I’m interested in Web development, Embedded Programming and Machine Learning.
+
+🔭 I’m currently working as a part-time Programmer Analyst at CRA.
+
+🤔 I'm currently learning about RTOS & Natural Language Processing.
+
+📫 Contact me @ ymoumine@outlook.com 
 
 <!--
 **ymoumine/ymoumine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
