@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web development, Machine Learning & Embedded Programming.
 
-🔭 I’m working as a part-time Programmer Analyst at CRA.
+🔭 I’m working as a part-time Software Developer at CRA.
 
 🤔 I'm currently learning about RTOS & Natural Language Processing.
 
