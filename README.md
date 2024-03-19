@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Yassine Moumine
 
-👀 I’m interested in Web development, Embedded Programming and Machine Learning.
+👀 I’m interested in Web development, Machine Learning & Embedded Programming.
 
 🔭 I’m working as a part-time Programmer Analyst at CRA.
 
