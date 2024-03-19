@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Yassine Moumine
 
-👀 I’m interested in Web development, Machine Learning & Embedded Programming.
+👀 I have experience in Web & Mobile App development, Machine Learning and Embedded Programming.
 
-🔭 I’m working as a part-time Software Developer at CRA.
+🔭 I’m currently working as a part-time Software Developer at CRA.
 
-🤔 I'm currently learning about RTOS & Natural Language Processing.
+🤔 I'm continuously learning about RTOS & Natural Language Processing.
 
 📫 Contact me @ ymoumine@outlook.com 
 
