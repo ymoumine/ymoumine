@@ -27,7 +27,7 @@
 
 ## 📅 Hobbies
 - Participate in hackathons with friends 👯
-- ![Kelpie Robotics Club](https://kelpierobotics.com/competition)
+- [Kelpie Robotics Club](https://kelpierobotics.com/competition)
 - Gym/Calisthenics 💪
 - Watch anime and TV shows 📺
 - Read some manga 📖
