@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Moumine</h1>
-<h3 align="center"> Computer Engineer and current Junior Security Analyst </h3>
+<h3 align="center"> Computer Engineer and Junior Security Analyst </h3>
 
 ### Tech Stack
 
