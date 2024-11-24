@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yassine Moumine</h1>
 <h3 align="center"> Computer Engineer and Junior Security Analyst </h3>
 
+<h2> Github Stats </h2> 
+<a href="https://github.com/ymoumine/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymoumine&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymoumine&theme=tokyonight" alt="ymoumine" />
+<br/>
+
 ### Tech Stack
 
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -42,12 +47,6 @@
 - Natural Language Processing
 - Advanced Security Techniques
 - ROS 2 (Jazzy)
-
-
-<h2> Github Stats </h2> 
-<a href="https://github.com/ymoumine/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymoumine&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymoumine&theme=tokyonight" alt="ymoumine" />
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=ymoumine&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=ymoumine.ymoumine)
